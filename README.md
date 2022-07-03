@@ -3,6 +3,7 @@
 Author : Prasad Patharvat
 
 Algoritm used :
+
 Linear regression
 
 Decision Tree
