@@ -2,6 +2,17 @@
 
 Author : Prasad Patharvat
 
+Algoritm used :
+Linear regression
+
+Decision Tree
+
+Random forest
+
+Adaboost Regressor
+
+Artificial Neural Network
+
 Goal
 It is your job to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable. 
 
@@ -41,6 +52,6 @@ The next step is to look at the data we’re working with. Realistically, most o
 
 • Performed processes before training the model that is data profiling, data preprocessing and exploratory data analysis
 
-• Applied Logistic Regressors, Decision tree, AdaBoost and Random forest to compare between models and to obtain better accuracy.
+• Applied Linear Regression, Decision tree, AdaBoost and Random forest to compare between models and to obtain better accuracy.
 
-• Predicted Loan Status & amount eligibility of a customer.
+• Predicted Sale Price.
